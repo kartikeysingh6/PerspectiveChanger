@@ -11,7 +11,7 @@
 # Installation
 - OpenCV:
 
-``` pip install opencv ```
+``` pip install opencv-python ```
 
 - Numpy:
 
